@@ -1,0 +1,86 @@
+{
+  "bindings": [],
+  "children": [
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Table",
+      "nodeName": "bln-table",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Table",
+      "nodeName": "bln-table",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Table",
+      "nodeName": "bln-table",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Table",
+      "nodeName": "bln-table",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Table",
+      "nodeName": "bln-table",
+      "ownerName": null,
+      "type": "core-component"
+    }
+  ],
+  "modules": [],
+  "name": "c1",
+  "parentDirectoryId": "QfbL0FcKOE8wEMszjSTvC",
+  "styles": [],
+  "type": "custom-component",
+  "variables": []
+}

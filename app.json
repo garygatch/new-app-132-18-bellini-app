@@ -1,0 +1,34 @@
+{
+  "config": {
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    },
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "environments": [],
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "themes": []
+  },
+  "defaultPage": "home",
+  "directories": {
+    "assets": [],
+    "components": [
+      {
+        "id": "QfbL0FcKOE8wEMszjSTvC",
+        "name": "aa"
+      }
+    ],
+    "pages": [],
+    "scripts": [],
+    "services": [],
+    "stylesheets": []
+  },
+  "name": "new-app-132-18",
+  "type": "app"
+}

@@ -1,0 +1,260 @@
+{
+  "children": [
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "c1",
+      "nodeName": "c1",
+      "ownerId": "6afe9a75a78f16cf04bafe9d",
+      "ownerType": "app",
+      "resourceIdentity": "components/aa/c1",
+      "type": "custom-component"
+    }
+  ],
+  "name": "home",
+  "params": {},
+  "type": "page",
+  "url": "/home",
+  "variables": []
+}
